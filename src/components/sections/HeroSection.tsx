@@ -128,7 +128,7 @@ const HeroSection = () => {
           <h1 className="text-5xl md:text-7xl font-heading font-black text-gray-800 mb-6 leading-tight">
             Hello, I'm{' '}
             <span className="text-gradient animate-gradient relative">
-              Nishaf Shah
+              Hamza Shah
               <div className="absolute -bottom-2 left-0 right-0 h-1 bg-gradient-to-r from-purple-600 to-blue-600 rounded-full transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500"></div>
             </span>
           </h1>
