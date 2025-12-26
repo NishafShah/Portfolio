@@ -11,7 +11,7 @@ const FooterSection = () => {
             <a href="https://github.com/NishafShah" className="text-gray-400 hover:text-purple-400 transition-colors animate-icon" target="_blank" rel="noopener noreferrer">
               <Github size={20} className="transform transition-all duration-300 hover:scale-125" />
             </a>
-            <a href="https://www.linkedin.com/in/syed-nishaf-hussain-shah-8b2409310/" className="text-gray-400 hover:text-purple-400 transition-colors animate-icon" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/nishafshah/" className="text-gray-400 hover:text-purple-400 transition-colors animate-icon" target="_blank" rel="noopener noreferrer">
               <Linkedin size={20} className="transform transition-all duration-300 hover:scale-125" />
             </a>
             <a href="mailto:shahmurrawat@gmail.com" className="text-gray-400 hover:text-purple-400 transition-colors animate-icon">
